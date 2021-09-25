@@ -49,8 +49,8 @@
 }
 
 header h2 {
-   
-    font-size: 70px;
+    font-family:Book Antiqua;
+    font-size: 60px;
     text-align: center;
     margin-bottom: 30px;
     color: cyan;
@@ -59,7 +59,7 @@ header h2 {
 header h4 {
     
     text-align: center;
-    color: #f92352;
+    color: MediumSeaGreen;
 }
 
 @media only screen and (max-width: 500px) {
