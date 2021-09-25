@@ -50,7 +50,7 @@
 
 header h2 {
    
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
     margin-bottom: 30px;
     color: cyan;
@@ -59,7 +59,7 @@ header h2 {
 header h4 {
     
     text-align: center;
-    color: chartreuse;
+    color: #f92352;
 }
 
 @media only screen and (max-width: 500px) {
