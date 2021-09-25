@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "DanIT",
     introTitle: 'Eii bảooo nàyy',
-    introDesc: `Giờ yêu ai cũng zậy thôi yêu đỡ tui nàyy`,
+    introDesc: `Giờ yêu ai cũng zậy thôi yêu đỡ tui nèeee`,
     btnIntro: 'Bấm vào đây nháaa',
     title: '',
     desc: 'Giả bộ nói yêu tui được khumm?',
